@@ -2,7 +2,8 @@
 /**
  *_strcmp - compares two strings
  *@s1: A pointer to a character that will be changed
- *@s2: A pointer to a character that will also be changed/modified/update *Return: dest
+ *@s2: A pointer to a character that will also be changed/modified/update
+ *Return: dest
 */
 
 int _strcmp(char *s1, char *s2)
